@@ -1,0 +1,30 @@
+# Project Outline: Causal Inference using Causal Trees in R
+
+# Step 1: Install and Load Required Packages
+# - Install and load the 'grf' package for causal inference
+# - Load additional packages as needed (e.g., 'dplyr' for data manipulation)
+
+# Step 2: Load and Prepare the Dataset
+# - Load the dataset containing participant information
+# - Perform any necessary data preprocessing and cleaning
+
+# Step 3: Modeling with Causal Trees
+# - Define treatment (X) and outcome (Y) variables
+# - Create a data matrix with relevant predictor variables
+# - Train a causal forest model using the 'causal_forest' function
+
+# Step 4: Interpreting the Results
+# - Print the causal tree to understand the estimated treatment effects
+# - Analyze the tree's structure and its implications
+
+# Step 5: Calculating Percent Causality
+# - Calculate the average treatment effect (ATE) of a variable on the outcome
+# - Calculate the percent causality by comparing ATE with relevant measures
+
+# Step 6: Interpretation and Discussion
+# - Discuss the findings in the context of your research question
+# - Address assumptions and limitations of the causal inference approach
+
+# Step 7: Conclusion and Future Work
+# - Summarize the results and their implications
+# - Suggest potential avenues for further research and exploration
